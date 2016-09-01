@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Jump Chess</string>
+    <string name="restart">restart</string>
+    <string name="best_time">best(seconds):</string>
+    <string name="help_text">help_text</string>
+    <string name="share_best">Share Best Score</string>
+
+    <string name="normal">Normal</string>
+    <string name="advanced">Advanced</string>
+    <string name="watchAI">Watch AI</string>
+    <string name="help">help</string>
+
+
+</resources>

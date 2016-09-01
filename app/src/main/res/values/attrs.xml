@@ -1,0 +1,6 @@
+ <resources> 
+    <declare-styleable name="com.pnp.jpchess.android.JumpChessView"> 
+    <attr name="textColor" format="color"/> 
+    <attr name="textSize" format="dimension"/> 
+    </declare-styleable> 
+</resources> 

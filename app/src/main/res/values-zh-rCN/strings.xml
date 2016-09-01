@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">精悍跳棋</string>
+    <string name="restart">重新开始</string>
+    <string name="best_time">best(seconds):</string>
+    <string name="help_text">跳棋是一项老少皆宜、流传广泛的益智型棋类游戏\n输赢：最先占据对角所有位置者胜\n走法：可以单独走一步，也可以借子连续跳\n操作：先点要跳的子，再点击最终目标位置\n不支持间隔空格等距跳法\n\n可把最好成绩成绩分享到朋友圈\n     作者：Payne.Pan</string>
+    <string name="share_best">把最好成绩成绩分享</string>
+
+    <string name="normal">一般</string>
+    <string name="advanced">高级</string>
+    <string name="watchAI">观察AI对战</string>
+    <string name="help">帮助</string>
+
+</resources>
